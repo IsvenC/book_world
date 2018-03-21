@@ -15,7 +15,6 @@ I decided to create a map of my progress. You can explore the full plot via [plo
 
 <div>
     <a href="https://plot.ly/~cisven/2/?share_key=SOx1qXzkLDyu5arQqcFlwr" target="_blank" title="book-world-map" style="display: block; text-align: center;"><img src="https://plot.ly/~cisven/2.png?share_key=SOx1qXzkLDyu5arQqcFlwr" alt="book-world-map" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="cisven:2" sharekey-plotly="SOx1qXzkLDyu5arQqcFlwr" src="https://plot.ly/embed.js" async></script>
 </div>
 
 
