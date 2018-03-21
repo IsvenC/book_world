@@ -7,4 +7,15 @@ As an avid bookworm, I wanted to keep track of what I was putting into my brain.
 
 With a spreadsheet comes data, and with data comes summary statistics, and with my book reading summary statistics came an understanding of bias. I realised that I overwhelmingly read books by British, American or Swedish authors (being Swedish myself), written since 1980. I was clearly missing out on other countries' stories! 
 
-Therefore, I decided to read a book by an author from every country in the world. Not being in a rush, this is still a work in progress. This repository contains a few visualisations of my journey!
+Therefore, I decided to read a book by an author from every country in the world. Not being in a rush, this is still a work in progress. 
+
+## Mapping my progress
+
+I decided to create a map of my progress. You can explore the full plot via [plotly](https://plot.ly/~cisven/2/number-of-books-read-per-country/ "My book world map on plotly").
+
+<div>
+    <a href="https://plot.ly/~cisven/2/?share_key=SOx1qXzkLDyu5arQqcFlwr" target="_blank" title="book-world-map" style="display: block; text-align: center;"><img src="https://plot.ly/~cisven/2.png?share_key=SOx1qXzkLDyu5arQqcFlwr" alt="book-world-map" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="cisven:2" sharekey-plotly="SOx1qXzkLDyu5arQqcFlwr" src="https://plot.ly/embed.js" async></script>
+</div>
+
+
