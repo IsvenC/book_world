@@ -16,6 +16,3 @@ I decided to create a map of my progress. You can explore the full plot via [plo
 <div>
     <a href="https://plot.ly/~cisven/2/?share_key=SOx1qXzkLDyu5arQqcFlwr" target="_blank" title="My map of reading around the world!" style="display: block; text-align: center;"><img src="https://plot.ly/~cisven/2.png?share_key=SOx1qXzkLDyu5arQqcFlwr" alt="book-world-map" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
 </div>
-
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~cisven/2.embed"></iframe>
-
