@@ -51,5 +51,8 @@ layout = dict(
     )
 )
 
+# define plot source
 fig = dict( data=data, layout=layout )
-py.iplot( fig, validate=False, filename='book-world-map' )
+
+# plot directly to plotly 
+py.plot( fig, validate=False, filename='book-world-map' )
